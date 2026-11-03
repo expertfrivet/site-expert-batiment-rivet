@@ -3,7 +3,7 @@
    (ExpertFR › Site internet › Demandes), où le logiciel ExpertFR la retrouve.
    À la mise en ligne : remplacer l'adresse ci-dessous par celle du script Google (voir le guide). */
 (function () {
-  var ADRESSE = "https://script.google.com/macros/s/A-REMPLACER/exec";
+  var ADRESSE = "https://script.google.com/macros/s/AKfycbx8WoUXTDkzjdohAZGg-xXyrz0weaDfNpYzjmaOuvjqxyoZbgn-HWOvPWpgSSF0Kjp2Gw/exec";
   var COTE = 1800, MAX_TOTAL = 18 * 1024 * 1024;
 
   function reduire(file) {
