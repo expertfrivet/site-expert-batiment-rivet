@@ -1,0 +1,72 @@
+{
+ "slug": "article-2021-06-maison-achetee-humidite-piegee-derriere-un-isolant-trop-minc",
+ "mois": "2021-06",
+ "titre": "Maison achetée : humidité piégée derrière un isolant trop mince et chauffe-eau dangereux",
+ "resume": "Quelques mois après l'achat, les murs ruissellent : un isolant collé et une peinture étanche piégeaient l'humidité. L'expertise a aussi révélé un risque gaz.",
+ "commune": "Moselle",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "Le nouveau propriétaire d'une maison des années 60-70, accolée sur un pignon, nous a appelés après avoir découvert de l'humidité derrière les revêtements des murs de l'étage. Au sous-sol, son déshumidificateur récupérait 7 à 8 litres d'eau par jour."
+  },
+  {
+   "type": "h2",
+   "texte": "Une maison devenue « étanche »"
+  },
+  {
+   "type": "p",
+   "texte": "Les anciens propriétaires avaient collé directement sur les murs un isolant polystyrène de seulement 5 mm, puis repeint la façade avec une peinture qui a enfermé l'humidité. Résultat : un point de rosée dans le mur, et une eau qui ne peut plus s'évacuer."
+  },
+  {
+   "type": "p",
+   "texte": "S'y ajoutait l'absence totale de ventilation : pas d'entrées d'air sur les fenêtres, pas de VMC dans les pièces d'eau. La maison était devenue une capsule sans respiration."
+  },
+  {
+   "type": "p",
+   "texte": "Tant que la circulation de l'air n'est pas rétablie, tous les travaux posés par-dessus, sans lame d'air entre le mur et le doublage, reproduiront le même problème."
+  },
+  {
+   "type": "h2",
+   "texte": "Plus grave : le chauffage au gaz"
+  },
+  {
+   "type": "p",
+   "texte": "La ventouse de la chaudière n'était pas étanche ni gainée dans le conduit, et le chauffe-eau gaz était raccordé directement au conduit, sans gaine, avec sa sécurité neutralisée. Les gaz brûlés pouvaient se répandre dans le logement. Ces installations ont été reprises ou supprimées depuis."
+  },
+  {
+   "type": "h2",
+   "texte": "Vice, vice caché ou non-conformité ?"
+  },
+  {
+   "type": "li",
+   "texte": "L'isolant mal posé est une malfaçon des anciens propriétaires, mais elle était décelable : c'est un vice, pas forcément un vice caché."
+  },
+  {
+   "type": "li",
+   "texte": "Les prises alimentées en fils de 1,5 mm² ne respectent pas la norme NF C 15-100 dans cette configuration."
+  },
+  {
+   "type": "li",
+   "texte": "Le chauffage et le chauffe-eau gaz relèvent en revanche du vice caché, avec un risque pour les personnes."
+  },
+  {
+   "type": "p",
+   "texte": "Cette première analyse a permis au propriétaire d'engager ensuite une expertise contradictoire avec le vendeur et le diagnostiqueur."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2021-06-maison-achetee-humidite-piegee-derriere-un-isolant-trop-minc-1.jpg",
+   "legende": "Mur mis à nu après retrait de l'isolant de 5 mm"
+  },
+  {
+   "fichier": "images/articles/article-2021-06-maison-achetee-humidite-piegee-derriere-un-isolant-trop-minc-2.jpg",
+   "legende": "Raccordement d'évacuation des gaz brûlés non étanche"
+  },
+  {
+   "fichier": "images/articles/article-2021-06-maison-achetee-humidite-piegee-derriere-un-isolant-trop-minc-3.jpg",
+   "legende": "Conduit d'évacuation non gainé"
+  }
+ ],
+ "publie_le": "2026-11-03T17:59"
+}
