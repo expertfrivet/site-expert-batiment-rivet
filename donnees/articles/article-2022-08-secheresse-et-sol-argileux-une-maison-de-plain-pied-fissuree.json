@@ -1,0 +1,76 @@
+{
+ "slug": "article-2022-08-secheresse-et-sol-argileux-une-maison-de-plain-pied-fissuree",
+ "mois": "2022-08",
+ "titre": "Sécheresse et sol argileux : une maison de plain-pied fissurée de toutes parts",
+ "resume": "Microfissures en 2019, fissures franches en 2021 : sur un sol très argileux, une maison de plain-pied s'est fracturée des fondations jusqu'aux cloisons.",
+ "commune": "Haute-Marne",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "En plein été 2022, nous avons expertisé une maison de plain-pied d'une dizaine d'années, construite sur dallage posé (sans vide sanitaire), dans une commune classée en zone d'argile forte. Les propriétaires avaient vu apparaître des microfissures en 2019, qui s'étaient rouvertes en 2020, puis élargies."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "li",
+   "texte": "Des fissures sur les deux façades et les deux pignons, aussi bien en pied de façade, donc depuis les fondations, qu'en remontées verticales."
+  },
+  {
+   "type": "li",
+   "texte": "À l'intérieur, des fissures en escalier et le dallage désolidarisé des murs."
+  },
+  {
+   "type": "li",
+   "texte": "Aucun arbre à proximité pouvant assécher le terrain."
+  },
+  {
+   "type": "li",
+   "texte": "Des sondages avaient confirmé l'argile sous tous les points, et l'inspection par caméra des canalisations n'avait révélé aucune fuite pouvant réhumidifier le sol."
+  },
+  {
+   "type": "h2",
+   "texte": "Pourquoi c'est typique de la sécheresse"
+  },
+  {
+   "type": "p",
+   "texte": "Les sols argileux gonflent quand ils sont humides et se rétractent quand ils sèchent. Une maison de plain-pied, légère et fondée peu profond, subit directement ces mouvements. Quand les fissures touchent toutes les façades, partent du bas et s'aggravent après chaque été sec, la piste d'une simple malfaçon devient très difficile à soutenir."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "li",
+   "texte": "Vérifiez si votre terrain est en zone argile (outil gratuit sur notre site, à partir des données de l'État)."
+  },
+  {
+   "type": "li",
+   "texte": "Photographiez et datez vos fissures chaque saison, et posez des témoins si elles évoluent."
+  },
+  {
+   "type": "li",
+   "texte": "Dès la publication de l'arrêté de catastrophe naturelle, déclarez le sinistre à votre assureur dans les délais."
+  },
+  {
+   "type": "li",
+   "texte": "En cas de refus, un avis technique indépendant permet d'argumenter sur des faits."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2022-08-secheresse-et-sol-argileux-une-maison-de-plain-pied-fissuree-1.jpg",
+   "legende": "Fissure en escalier dans une cloison intérieure"
+  },
+  {
+   "fichier": "images/articles/article-2022-08-secheresse-et-sol-argileux-une-maison-de-plain-pied-fissuree-2.jpg",
+   "legende": "Fissure à l'angle d'une ouverture en façade"
+  },
+  {
+   "fichier": "images/articles/article-2022-08-secheresse-et-sol-argileux-une-maison-de-plain-pied-fissuree-3.jpg",
+   "legende": "Dallage désolidarisé du mur en pied de cloison"
+  }
+ ],
+ "publie_le": "2026-11-03T18:11"
+}
