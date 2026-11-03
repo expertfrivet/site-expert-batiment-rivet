@@ -1,0 +1,72 @@
+{
+ "slug": "article-2021-12-pompe-a-chaleur-trop-bruyante-quand-la-pose-fait-resonner-to",
+ "mois": "2021-12",
+ "titre": "Pompe à chaleur trop bruyante : quand la pose fait résonner toute la maison",
+ "resume": "Une pompe à chaleur air-air impossible à utiliser la nuit : le matériel était bon, mais le groupe extérieur fixé au mur transmettait ses vibrations à toute la maison.",
+ "commune": "Aube",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "En plein hiver, un propriétaire nous a appelés pour sa pompe à chaleur air-air (un groupe extérieur et quatre unités intérieures), installée après un démarchage avec promesse de prime énergie. Le bruit rendait l'installation inutilisable la nuit."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "li",
+   "texte": "Le groupe extérieur était fixé en applique sur le mur, et non posé au sol sur une dalle indépendante. Les silentblocs étaient bien là, mais le rail porteur était vissé directement dans des murs en pisé (terre crue) : en posant un doigt dessus, on sentait les vibrations, qui résonnaient dans toute la structure."
+  },
+  {
+   "type": "li",
+   "texte": "Une unité intérieure avait un défaut de raccordement de l'évacuation des condensats, laissant une coulure sur le mur."
+  },
+  {
+   "type": "li",
+   "texte": "Les goulottes extérieures, trop volumineuses, empêchaient d'ouvrir et d'accrocher correctement les volets."
+  },
+  {
+   "type": "h2",
+   "texte": "Notre conclusion"
+  },
+  {
+   "type": "p",
+   "texte": "Le matériel était correct et connu sur le marché : le problème venait de la pose. Nous avons recommandé de reprendre le raccordement fuyard avant qu'il ne cause des dégâts, puis soit de désolidariser le rail du mur par des silentblocs adaptés, soit de déplacer le groupe au sol sur un support anti-vibrations."
+  },
+  {
+   "type": "p",
+   "texte": "Quant à la prime promise et jamais obtenue, il fallait vérifier si l'entreprise disposait bien des qualifications nécessaires."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "li",
+   "texte": "Un groupe extérieur se pose de préférence au sol, désolidarisé de la maison, surtout sur des murs anciens ou légers."
+  },
+  {
+   "type": "li",
+   "texte": "Avant de signer, vérifiez la qualification de l'installateur (RGE) : c'est elle qui conditionne les aides."
+  },
+  {
+   "type": "li",
+   "texte": "Faites constater rapidement les défauts : une fuite de condensats finit toujours par abîmer les murs."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2021-12-pompe-a-chaleur-trop-bruyante-quand-la-pose-fait-resonner-to-1.jpg",
+   "legende": "Coulure sur le mur due au mauvais raccordement des condensats"
+  },
+  {
+   "fichier": "images/articles/article-2021-12-pompe-a-chaleur-trop-bruyante-quand-la-pose-fait-resonner-to-2.jpg",
+   "legende": "Rail du groupe extérieur fixé directement dans le mur"
+  },
+  {
+   "fichier": "images/articles/article-2021-12-pompe-a-chaleur-trop-bruyante-quand-la-pose-fait-resonner-to-3.jpg",
+   "legende": "Fixation basse du support du groupe extérieur"
+  }
+ ],
+ "publie_le": "2026-11-03T18:04"
+}
