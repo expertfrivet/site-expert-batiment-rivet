@@ -1,0 +1,206 @@
+/* Expertises Bâtiment Franck RIVET : palette reprise du thème Wix d'origine */
+:root{
+  --navy:#194056;      /* couleur principale Wix (color_18) */
+  --blue:#307aa4;      /* color_17 */
+  --sky:#7fb9da;       /* color_16 */
+  --ink:#091821;       /* color_19 */
+  --gold:#f1c303;      /* color_33 */
+  --gold-soft:#fedba5;
+  --bg:#ffffff;
+  --bg-alt:#f4f7f9;
+  --text:#192630;
+  --muted:#5b6770;
+  --line:#d6dee3;
+  --radius:10px;
+  --font:"Archivo Narrow","Nimbus Sans Condensed","Arial Narrow",sans-serif;
+  --script:"Libre Baskerville",Baskerville,Georgia,serif;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font:400 18px/1.6 var(--font)}
+img{max-width:100%;height:auto;display:block}
+a{color:var(--blue)}
+h1,h2,h3{font-family:var(--font);line-height:1.2;color:var(--navy);margin:0 0 .6em}
+h1{font-size:clamp(30px,5vw,52px);text-transform:uppercase;letter-spacing:.02em}
+h2{font-size:clamp(24px,3vw,32px)}
+h3{font-size:21px}
+p{margin:0 0 1em}
+.wrap{width:min(1180px,100% - 32px);margin-inline:auto}
+.narrow{max-width:860px}
+.center{text-align:center}
+.mt{margin-top:2em}
+
+/* En-tête */
+.site-header{background:var(--navy);color:#fff;position:sticky;top:0;z-index:10;box-shadow:0 2px 10px rgba(0,0,0,.2)}
+.header-inner{display:flex;align-items:center;gap:6px 20px;min-height:84px;flex-wrap:wrap;padding:10px 0}
+.brand{display:flex;align-items:center;gap:12px;color:#fff;text-decoration:none;font-size:17px;line-height:1.15;text-transform:uppercase;letter-spacing:.03em}
+.brand img{border-radius:50%;width:62px;height:62px;object-fit:cover;background:#fff}
+.brand strong{font-size:22px;color:var(--gold)}
+nav{margin-left:auto}
+nav ul{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:2px}
+nav a{display:block;color:#fff;text-decoration:none;padding:8px 10px;font-size:16px;border-bottom:3px solid transparent}
+nav a:hover,nav a[aria-current=page]{border-bottom-color:var(--gold);color:var(--gold)}
+.menu-toggle{display:none;margin-left:auto;background:none;border:2px solid #fff;color:#fff;font:inherit;padding:4px 14px;border-radius:6px;cursor:pointer}
+@media (max-width:1020px){
+  .menu-toggle{display:block}
+  nav{width:100%;display:none;padding-bottom:12px}
+  nav.open{display:block}
+  nav ul{flex-direction:column}
+}
+
+/* Bandeau */
+.hero{position:relative;color:#fff;padding:clamp(60px,10vw,120px) 0;background:linear-gradient(rgba(9,24,33,.72),rgba(25,64,86,.82)),var(--hero) center/cover no-repeat,var(--navy)}
+.hero h1{color:#fff;max-width:900px}
+.hero-sub{font-size:clamp(18px,2.2vw,23px);max-width:780px;color:#e6f1f7;margin:0}
+
+/* Sections */
+.section{padding:clamp(40px,6vw,72px) 0}
+.band{background:var(--bg-alt)}
+.lead{font-size:20px}
+.kicker{color:var(--blue);font-weight:600;text-transform:uppercase;letter-spacing:.05em;margin-top:-.4em}
+.note{font-style:italic;color:var(--muted);font-size:16px}
+blockquote{margin:1.5em 0;padding:16px 22px;border-left:5px solid var(--gold);background:var(--bg-alt);font-family:var(--script);font-style:italic;font-size:20px;color:var(--navy)}
+
+.grid-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:20px}
+.grid-cards.two{grid-template-columns:repeat(auto-fill,minmax(420px,1fr))}
+@media (max-width:520px){.grid-cards.two{grid-template-columns:1fr}}
+.card{background:#fff;border:1px solid var(--line);border-top:4px solid var(--blue);border-radius:var(--radius);padding:22px 22px 14px;box-shadow:0 2px 8px rgba(25,64,86,.06)}
+.card.wide{max-width:860px}
+.card.accent{background:var(--navy);color:#fff;border-top-color:var(--gold);display:flex;align-items:center}
+.card ul{margin:0 0 1em;padding-left:1.1em}
+.card li{margin:.2em 0}
+.objectif{font-family:var(--script);font-style:italic;color:var(--blue);font-weight:700}
+.num{display:inline-grid;place-items:center;width:38px;height:38px;border-radius:50%;background:var(--gold);color:var(--ink);font-weight:700;margin-bottom:10px}
+
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:40px}
+.cols3{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+@media (max-width:860px){.cols2,.cols3{grid-template-columns:1fr}}
+
+ul.checks{list-style:none;padding:0}
+ul.checks li{padding-left:30px;position:relative;margin:.45em 0}
+ul.checks li::before{content:"";position:absolute;left:4px;top:.45em;width:12px;height:7px;border-left:3px solid var(--blue);border-bottom:3px solid var(--blue);transform:rotate(-45deg)}
+ul.tags{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+ul.tags li{background:#fff;border:1px solid var(--line);border-radius:999px;padding:4px 14px;font-size:16px}
+
+.script{font-family:var(--script);font-style:italic}
+.motto{list-style:none;padding:0;margin:0 0 1.5em;display:flex;flex-wrap:wrap;justify-content:center;gap:12px 36px}
+.motto li{font-size:clamp(24px,3vw,34px);font-weight:700;color:var(--navy);text-transform:uppercase}
+.motto li+li::before{content:"•";color:var(--gold);margin-right:36px}
+.band .lead{max-width:860px;margin-inline:auto}
+
+.stats{display:flex;gap:20px;flex-wrap:wrap;margin:10px 0 24px}
+.stats div{background:var(--navy);color:#fff;border-radius:var(--radius);padding:16px 26px;min-width:200px}
+.stats strong{display:block;font-size:34px;color:var(--gold)}
+
+/* Tarifs */
+.offers{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+@media (max-width:960px){.offers{grid-template-columns:1fr}}
+.offer{background:#fff;border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column}
+.offer img{width:100%;height:170px;object-fit:cover;background:var(--sky)}
+.offer-body{padding:22px;display:flex;flex-direction:column;flex:1}
+.offer h3{font-size:22px;text-transform:uppercase}
+.offer h3 span{display:block;font-size:34px;color:var(--blue)}
+.postes{font-weight:600;color:var(--navy)}
+.price{margin-top:auto;background:var(--navy);color:#fff;border-radius:8px;padding:12px 16px}
+.price small{display:block;color:var(--sky)}
+.price strong{font-size:26px;color:var(--gold)}
+
+/* Événements */
+.post{padding-bottom:36px;margin-bottom:36px;border-bottom:1px solid var(--line)}
+.date{display:inline-block;background:var(--gold);color:var(--ink);font-weight:700;border-radius:4px;padding:2px 10px;margin-bottom:10px}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin:16px 0}
+.gallery img{width:100%;aspect-ratio:5/4;object-fit:cover;border-radius:8px;background:var(--bg-alt)}
+
+/* CTA */
+.cta{background:var(--navy);color:#fff;padding:56px 0;text-align:center}
+.cta h2{color:var(--gold)}
+.btn{display:inline-block;background:var(--gold);color:var(--ink);font:700 18px var(--font);text-transform:uppercase;letter-spacing:.04em;text-decoration:none;border:0;border-radius:6px;padding:12px 26px;cursor:pointer;margin:4px}
+.btn:hover{filter:brightness(1.08)}
+.btn-ghost{background:transparent;color:#fff;border:2px solid #fff}
+
+/* Formulaire */
+.form .row{margin-bottom:14px}
+.form label{display:block;font-weight:600;color:var(--navy);margin-bottom:4px}
+.form input,.form textarea{width:100%;font:inherit;padding:10px 12px;border:1px solid #b7c4cc;border-radius:6px;background:#fff;color:var(--text)}
+.form input:focus,.form textarea:focus{outline:3px solid var(--sky);border-color:var(--blue)}
+.form .consent{display:flex;gap:10px;align-items:flex-start;font-weight:400;font-size:16px;color:var(--muted);margin:10px 0 16px}
+.form .consent input{width:auto;margin-top:6px}
+.hp{position:absolute;left:-9999px}
+.form-status{margin-top:12px;font-weight:600;color:var(--navy)}
+
+/* Pied de page */
+.site-footer{background:var(--ink);color:#d9e3ea;padding:40px 0 20px}
+.footer-inner{display:flex;flex-wrap:wrap;gap:30px;justify-content:space-between;align-items:flex-start}
+.footer-brand{display:flex;gap:14px;align-items:center;max-width:380px}
+.footer-brand img{border-radius:50%;width:74px;height:74px;object-fit:cover;background:#fff}
+.coords{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:24px}
+.coords li{display:flex;gap:10px;align-items:flex-start}
+.coords svg{width:26px;height:26px;fill:var(--gold);flex:none;margin-top:2px}
+.coords a{color:#fff}
+.coords.dark{flex-direction:column;gap:14px;margin-bottom:16px}
+.coords.dark svg{fill:var(--blue)}
+.coords.dark a{color:var(--blue)}
+.legal{margin-top:28px;padding-top:16px;border-top:1px solid rgba(255,255,255,.12);font-size:15px;color:#9fb0bc}
+.legal a{color:#9fb0bc}
+
+/* V2 : boutons du bandeau et bouton d'appel flottant (mobile) */
+.hero-ctas{margin-top:22px}
+.hero .btn-ghost{color:#fff}
+.call-fab{display:none}
+@media (max-width:760px){
+  .call-fab{display:flex;align-items:center;gap:8px;position:fixed;right:16px;bottom:16px;z-index:20;background:var(--gold);color:var(--ink);font:700 17px var(--font);text-decoration:none;padding:12px 18px;border-radius:999px;box-shadow:0 4px 14px rgba(0,0,0,.3)}
+  .call-fab svg{width:22px;height:22px;fill:var(--ink)}
+  body{padding-bottom:70px}
+}
+.form-intro{background:var(--bg-alt);border-left:4px solid var(--gold);padding:10px 14px;border-radius:6px}
+.form .row.two{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media (max-width:560px){.form .row.two{grid-template-columns:1fr}}
+.form select{width:100%;font:inherit;padding:10px 12px;border:1px solid #b7c4cc;border-radius:6px;background:#fff;color:var(--text)}
+.form fieldset{border:0;padding:0;margin:0 0 14px}
+.form legend{font-weight:600;color:var(--navy);margin-bottom:4px}
+.form label.inline{display:inline-flex;align-items:center;gap:6px;margin-right:18px;font-weight:400;color:var(--text)}
+.form label.inline input{width:auto}
+/* Expertises repliables (accueil V2) */
+.acc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:10px;align-items:start}
+@media (max-width:400px){.acc-grid{grid-template-columns:1fr}}
+.acc{background:#fff;border:1px solid var(--line);border-left:4px solid var(--blue);border-radius:8px}
+.acc summary{cursor:pointer;list-style:none;padding:14px 44px 14px 16px;font-weight:700;color:var(--navy);position:relative}
+.acc summary::-webkit-details-marker{display:none}
+.acc summary::after{content:"+";position:absolute;right:16px;top:50%;transform:translateY(-50%);font-size:24px;color:var(--blue)}
+.acc[open] summary::after{content:"–"}
+.acc[open]{border-left-color:var(--gold)}
+.acc-body{padding:0 16px 8px}
+.acc-body ul{padding-left:1.1em}
+/* Assistant « Que faire maintenant ? » */
+.qf{min-height:220px}
+.qf-choix{display:grid;gap:10px}
+.qf-btn{font:600 18px var(--font);text-align:left;padding:14px 16px;border:2px solid var(--line);border-radius:8px;background:#fff;color:var(--navy);cursor:pointer}
+.qf-btn:hover,.qf-btn:focus{border-color:var(--blue);outline:none}
+.qf-urgent{background:#fdecea;color:#8a1c12;padding:8px 12px;border-radius:6px;font-weight:700}
+.btn-line{background:#fff;border:2px solid var(--navy);color:var(--navy)}
+.btn-lien{background:none;border:0;color:var(--blue);font:inherit;cursor:pointer;padding:0}
+/* Cartes « Votre problème » */
+.pb-card{display:block;text-decoration:none;color:var(--text)}
+.pb-card h3{color:var(--navy)}
+.pb-card p{font-size:16px;color:var(--muted)}
+.pb-card:hover{border-top-color:var(--gold)}
+
+/* Outil zone argile (V2) */
+.za-niveau{font-size:20px;padding:10px 14px;border-radius:8px;background:var(--bg-alt)}
+.za-fort{border-left:6px solid #c0392b}
+.za-moyen{border-left:6px solid var(--gold)}
+.za-faible{border-left:6px solid #3c9a5f}
+
+/* Formulaire photos guidé (V2) */
+.apercu{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px;margin-top:10px}
+.apercu figure{margin:0}
+.apercu img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:6px;background:var(--bg-alt)}
+.apercu select{margin-top:4px;font-size:15px;padding:4px}
+.photo-conseils li{margin:.5em 0}
+
+/* Bandeau statistiques (V2) */
+.cookies{position:fixed;left:16px;right:16px;bottom:16px;z-index:50;max-width:620px;margin-inline:auto;background:#fff;color:var(--text);border:1px solid var(--line);border-top:4px solid var(--gold);border-radius:var(--radius);box-shadow:0 6px 24px rgba(9,24,33,.25);padding:14px 16px;font-size:16px}
+.cookies p{margin:0 0 10px}
+.cookies .btn{font-size:15px;padding:8px 18px}
+.btn-lien-pied{background:none;border:0;color:#9fb0bc;font:inherit;text-decoration:underline;cursor:pointer;padding:0}
+@media (max-width:860px){.cookies{bottom:84px}}
