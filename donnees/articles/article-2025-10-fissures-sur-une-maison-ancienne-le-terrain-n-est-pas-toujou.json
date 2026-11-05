@@ -1,0 +1,60 @@
+{
+ "slug": "article-2025-10-fissures-sur-une-maison-ancienne-le-terrain-n-est-pas-toujou",
+ "mois": "2025-10",
+ "titre": "Fissures sur une maison ancienne : le terrain n'est pas toujours en cause",
+ "resume": "Des fissures impressionnantes sur trois façades d'une maison du XVIIIe siècle faisaient craindre un mouvement de sol. L'expertise a montré qu'elles venaient de la maçonnerie elle-même.",
+ "commune": "Aube",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "À l'automne, des propriétaires nous ont appelés pour des fissures sur leur maison, une bâtisse du XVIIIe siècle aux murs épais en pierre, montés en double paroi avec un remplissage au mortier de chaux. Les fissures touchaient la façade sur rue, un pignon et la façade sur cour. Ils craignaient un problème de terrain et se demandaient s'il fallait reprendre les fondations."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "p",
+   "texte": "Le premier réflexe est de regarder d'où partent les fissures. Ici, en dehors de celles de la façade sur cour, aucune ne descendait jusqu'au sol, et aucune ne prenait la forme en escalier typique d'un mouvement de terrain. La consultation de Géorisques confirmait d'ailleurs un risque faible de retrait et gonflement des argiles."
+  },
+  {
+   "type": "p",
+   "texte": "Sur la façade sur cour, les fissures verticales partaient d'un balcon ajouté à l'étage : un changement de matériau et une charge supplémentaire suffisent à expliquer ce type de fissure. En revanche, une fissure plus large montait depuis le pignon, tournait autour de l'angle de la maison et repartait vers la toiture. Celle-là est structurelle : la maçonnerie s'est déchirée, sans que le bâtiment soit pour autant déstabilisé."
+  },
+  {
+   "type": "h2",
+   "texte": "Notre conclusion"
+  },
+  {
+   "type": "li",
+   "texte": "Pas de risque de péril, et pas de mouvement de sol : ni micropieux ni injections de résine ne sont nécessaires."
+  },
+  {
+   "type": "li",
+   "texte": "Les déchirures de la maçonnerie doivent être reprises par agrafage, puis l'enduit refait."
+  },
+  {
+   "type": "li",
+   "texte": "En attendant, les fissures les plus larges et les plus proches de l'horizontale doivent être bouchées provisoirement, pour que la pluie ne pénètre pas entre les deux parois du mur."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "p",
+   "texte": "Toutes les fissures ne se valent pas. Une fissure qui ne descend pas au sol oriente plutôt vers la maçonnerie que vers les fondations, et le traitement n'est pas du tout le même ni le même budget. Avant d'engager de lourds travaux de reprise en sous-œuvre, faites établir un diagnostic."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2025-10-fissures-sur-une-maison-ancienne-le-terrain-n-est-pas-toujou-1.jpg",
+   "legende": "Fissure verticale sur un enduit de façade, qui s'arrête avant le soubassement"
+  },
+  {
+   "fichier": "images/articles/article-2025-10-fissures-sur-une-maison-ancienne-le-terrain-n-est-pas-toujou-2.jpg",
+   "legende": "Fissure fine sur la façade : elle ne descend pas jusqu'au sol"
+  }
+ ],
+ "publie_le": "2026-11-05T18:20"
+}
