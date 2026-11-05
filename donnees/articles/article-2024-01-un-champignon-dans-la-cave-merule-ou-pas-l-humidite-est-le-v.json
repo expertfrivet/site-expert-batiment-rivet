@@ -1,0 +1,84 @@
+{
+ "slug": "article-2024-01-un-champignon-dans-la-cave-merule-ou-pas-l-humidite-est-le-v",
+ "mois": "2024-01",
+ "titre": "Un champignon dans la cave : mérule ou pas, l'humidité est le vrai problème",
+ "resume": "Un an après l'achat d'une ancienne maison de ferme, un champignon apparaît en cave. Avant même les analyses, l'expertise a identifié d'où venait l'humidité qui le nourrit.",
+ "commune": "Marne",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "En janvier, des propriétaires installés depuis un an dans une maison issue de la division d'un ancien corps de ferme ont découvert un champignon d'environ un demi-mètre carré dans un angle de leur cave. Leur crainte : la mérule."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "li",
+   "texte": "La cave n'avait aucune ventilation : de l'eau perlait au plafond et les poutrelles métalliques étaient fortement corrodées."
+  },
+  {
+   "type": "li",
+   "texte": "À l'extérieur, le pied de façade était humide sur une quarantaine de centimètres : le ravalement descendait jusqu'au sol et une dalle béton avait été coulée directement contre le mur."
+  },
+  {
+   "type": "li",
+   "texte": "Dans la pièce au-dessus, un parquet flottant avait été posé sur un ancien plancher sur lambourdes. Sous une lame retirée, le vieux plancher dépassait 30 % d'humidité et portait un ancien champignon sec."
+  },
+  {
+   "type": "li",
+   "texte": "Dans les salles de bain, des receveurs posés avec trop peu de plots et des joints qui se décollaient."
+  },
+  {
+   "type": "h2",
+   "texte": "Mérule ou pas ?"
+  },
+  {
+   "type": "p",
+   "texte": "L'aspect du champignon n'était pas celui, filandreux et étalé, d'une mérule classique, et seule une analyse en laboratoire permet de trancher. Mais qu'il s'agisse ou non d'une mérule, le traitement commence toujours par la même chose : supprimer l'humidité qui le nourrit."
+  },
+  {
+   "type": "h2",
+   "texte": "Nos recommandations"
+  },
+  {
+   "type": "li",
+   "texte": "Créer une vraie circulation d'air dans la cave."
+  },
+  {
+   "type": "li",
+   "texte": "Dégager le pied de façade et désolidariser la dalle du mur."
+  },
+  {
+   "type": "li",
+   "texte": "Remplacer le plancher encapsulé : on ne recouvre pas un vieux plancher sur lambourdes sans le ventiler."
+  },
+  {
+   "type": "li",
+   "texte": "Prévoir un traitement préventif de la charpente, abîmée par endroits côté grange."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "p",
+   "texte": "Un champignon n'apparaît jamais sans humidité. Avant de penser au traitement, cherchez d'où vient l'eau : cave non ventilée, pied de mur enterré, plancher enfermé sous un revêtement étanche."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2024-01-un-champignon-dans-la-cave-merule-ou-pas-l-humidite-est-le-v-1.jpg",
+   "legende": "Champignon dans un angle de cave non ventilée"
+  },
+  {
+   "fichier": "images/articles/article-2024-01-un-champignon-dans-la-cave-merule-ou-pas-l-humidite-est-le-v-2.jpg",
+   "legende": "Ancien plancher sous le parquet flottant, humide, avec un vieux champignon sec"
+  },
+  {
+   "fichier": "images/articles/article-2024-01-un-champignon-dans-la-cave-merule-ou-pas-l-humidite-est-le-v-3.jpg",
+   "legende": "Receveur de douche posé avec trop peu de plots"
+  }
+ ],
+ "publie_le": "2026-11-05T18:05"
+}
