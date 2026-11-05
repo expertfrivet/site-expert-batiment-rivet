@@ -1,0 +1,64 @@
+{
+ "slug": "article-2026-07-murs-en-pierre-au-bord-d-une-route-quand-l-eau-ne-peut-plus",
+ "mois": "2026-07",
+ "titre": "Murs en pierre au bord d'une route : quand l'eau ne peut plus s'évacuer",
+ "resume": "Une cave à 80 % d'humidité sous une maison ancienne en angle de rue : les abords, devenus étanches au fil des aménagements, renvoyaient l'eau de pluie vers des murs en pierre jointés à la chaux.",
+ "commune": "Aube",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "Cet été, la propriétaire d'une maison ancienne située à l'angle de deux rues nous a appelés pour une humidité persistante. L'air de la maison était lourd, et l'odeur venait clairement de la cave."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "p",
+   "texte": "La cave est enterrée le long des deux murs qui bordent la voirie. À l'hygromètre, l'air y dépassait 70 % d'humidité et atteignait 75 à 80 %, un air saturé qui finit par remonter dans les pièces habitées. Les murs sont en pierre, montés avec des joints à la chaux : une maçonnerie saine, mais qui a besoin de respirer et d'évacuer l'eau qu'elle reçoit."
+  },
+  {
+   "type": "p",
+   "texte": "Or, au fil des années, les abords ont changé : une chaussée prévue pour des véhicules lourds d'un côté, une bande engazonnée où l'eau stagne de l'autre. L'eau de pluie ne s'écoule plus en surface et reste plaquée contre le pied des murs. Une fuite sur une canalisation enterrée, signalée dans le passé, avait encore aggravé la situation."
+  },
+  {
+   "type": "h2",
+   "texte": "Nos recommandations"
+  },
+  {
+   "type": "li",
+   "texte": "Protéger le pied de façade côté rue par une membrane à excroissances (type Delta MS), qui éloigne l'eau de la maçonnerie et limite aussi la transmission des vibrations."
+  },
+  {
+   "type": "li",
+   "texte": "Créer une courette anglaise avec une entrée d'air, pour ventiler la cave et laisser les murs sécher."
+  },
+  {
+   "type": "li",
+   "texte": "Ne jamais enduire ces murs au ciment ou les peindre avec un produit étanche : on enfermerait l'humidité dans la pierre."
+  },
+  {
+   "type": "li",
+   "texte": "Lorsque les abords appartiennent au domaine public, ne pas intervenir soi-même : signaler la situation à la collectivité, qui seule peut agir sur la voirie et les réseaux."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "p",
+   "texte": "Une cave humide sous une maison ancienne ne vient pas toujours de la maison elle-même. Avant de traiter les murs, regardez ce qui se passe autour : pente du terrain, revêtements, réseaux enterrés. Une maçonnerie à la chaux supporte bien l'humidité, à condition qu'elle puisse sécher."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2026-07-murs-en-pierre-au-bord-d-une-route-quand-l-eau-ne-peut-plus-1.jpg",
+   "legende": "Hygromètre en cave : l'humidité de l'air dépasse 75 %"
+  },
+  {
+   "fichier": "images/articles/article-2026-07-murs-en-pierre-au-bord-d-une-route-quand-l-eau-ne-peut-plus-2.jpg",
+   "legende": "Pied de mur en pierre jointé à la chaux, sous une poutre de plancher"
+  }
+ ],
+ "publie_le": "2026-11-05T18:28"
+}
