@@ -1,0 +1,64 @@
+{
+ "slug": "article-2023-02-insert-de-cheminee-qui-refoule-la-fumee-deux-causes-a-verifi",
+ "mois": "2023-02",
+ "titre": "Insert de cheminée qui refoule la fumée : deux causes à vérifier",
+ "resume": "Fumée qui revient dans la pièce et air froid devant le foyer éteint : l'expertise d'un insert récent a mis en évidence un conduit trop contraint et une vitre qui ne fermait pas.",
+ "commune": "Aube",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "En plein hiver, des propriétaires nous ont appelés pour un insert installé quatre ans plus tôt dans l'extension de leur maison. Le feu refoulait régulièrement de la fumée dans la pièce, et même foyer éteint, ils sentaient de l'air froid arriver par l'insert."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "p",
+   "texte": "À l'extérieur, la sortie de toit ne se trouvait pas dans l'axe de la cheminée : le conduit avait été dévié de l'autre côté du pan de toiture, ce qui imposait un double coude. Or chaque coude freine et refroidit les fumées, d'autant plus sur un diamètre de conduit déjà juste."
+  },
+  {
+   "type": "p",
+   "texte": "Sur l'insert lui-même, à ouverture verticale, la vitre ne redescendait pas jusqu'en fond de gorge. Le joint, qui doit être plaqué contre la façade du foyer, n'était pas en contact, et le mécanisme était légèrement de biais : l'espace n'était pas le même à droite et à gauche."
+  },
+  {
+   "type": "h2",
+   "texte": "Notre conclusion"
+  },
+  {
+   "type": "p",
+   "texte": "Deux défauts se cumulaient :"
+  },
+  {
+   "type": "li",
+   "texte": "un conduit insuffisant pour le volume de fumée de l'appareil, ou trop pénalisé par le double coude, d'où les retours de fumée ;"
+  },
+  {
+   "type": "li",
+   "texte": "une vitre mal réglée qui ne fermait pas le foyer, d'où l'air froid et la fumée qui sortait par l'avant."
+  },
+  {
+   "type": "p",
+   "texte": "Nous avons recommandé de contrôler et de régler, voire de remplacer, le mécanisme de la vitre, et de vérifier que les diamètres du tubage, jusqu'à la sortie de toit, correspondent bien à ceux exigés par le fabricant de l'insert."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "p",
+   "texte": "C'est l'appareil qui impose le diamètre et le tracé du conduit, pas l'inverse. Un refoulement de fumée n'est jamais anodin : les fumées et le monoxyde de carbone sont dangereux. En cas de doute, n'utilisez plus le foyer et faites contrôler l'installation."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2023-02-insert-de-cheminee-qui-refoule-la-fumee-deux-causes-a-verifi-1.jpg",
+   "legende": "Vitre de l'insert : le joint n'est pas en contact avec la façade du foyer"
+  },
+  {
+   "fichier": "images/articles/article-2023-02-insert-de-cheminee-qui-refoule-la-fumee-deux-causes-a-verifi-2.jpg",
+   "legende": "Mécanisme de la vitre : la butée de fond n'est jamais atteinte"
+  }
+ ],
+ "publie_le": "2026-11-05T17:57"
+}
