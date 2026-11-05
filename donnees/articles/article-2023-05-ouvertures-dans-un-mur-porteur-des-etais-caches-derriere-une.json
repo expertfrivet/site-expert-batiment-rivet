@@ -1,0 +1,60 @@
+{
+ "slug": "article-2023-05-ouvertures-dans-un-mur-porteur-des-etais-caches-derriere-une",
+ "mois": "2023-05",
+ "titre": "Ouvertures dans un mur porteur : des étais cachés derrière une porte condamnée",
+ "resume": "En rénovant sa maison, un propriétaire a découvert deux étais dissimulés derrière une porte bloquée. L'expertise a porté sur les ouvertures créées dans le mur porteur central.",
+ "commune": "Aube",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "Au printemps, le propriétaire d'une maison des années 1960, agrandie et réaménagée par les occupants précédents, nous a demandé de venir voir une découverte inquiétante. En travaux, il avait ouvert une porte restée condamnée : derrière, une seconde porte masquait deux étais métalliques qui soutenaient le linteau."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "p",
+   "texte": "Le mur concerné est le mur porteur central de la maison : il reprend toute la charge de l'étage. Au détecteur de métaux, nous avons trouvé des armatures au-dessus de la porte étayée, mais aucune au-dessus d'une autre porte créée plus tard dans ce même mur."
+  },
+  {
+   "type": "p",
+   "texte": "Au sous-sol aménagé, d'autres ouvertures avaient été percées, mais décalées par rapport à celles du rez-de-chaussée. Avec des ouvertures en quinconce, impossible de savoir comment les charges descendent jusqu'aux fondations. Nous n'avons relevé aucune fissure, mais l'absence de fissure ne suffit pas à garantir la solidité."
+  },
+  {
+   "type": "h2",
+   "texte": "Notre recommandation"
+  },
+  {
+   "type": "li",
+   "texte": "Ne pas retirer les étais tant qu'une étude n'a pas été faite."
+  },
+  {
+   "type": "li",
+   "texte": "Faire intervenir un bureau d'études structure pour vérifier les descentes de charges."
+  },
+  {
+   "type": "li",
+   "texte": "Si une reprise est nécessaire, une poutre métallique sur toute la largeur du mur est une solution logique, à dimensionner par le bureau d'études."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "p",
+   "texte": "Toute ouverture dans un mur porteur demande un calcul et un linteau adapté. Avant d'acheter, méfiez-vous des portes condamnées ou des meubles qui masquent un mur, et demandez les factures et plans des travaux réalisés par les anciens propriétaires."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2023-05-ouvertures-dans-un-mur-porteur-des-etais-caches-derriere-une-1.jpg",
+   "legende": "Porte condamnée : deux étais soutiennent le linteau"
+  },
+  {
+   "fichier": "images/articles/article-2023-05-ouvertures-dans-un-mur-porteur-des-etais-caches-derriere-une-2.jpg",
+   "legende": "Encadrement de la porte créée, sans armature détectée au-dessus"
+  }
+ ],
+ "publie_le": "2026-11-05T17:59"
+}
