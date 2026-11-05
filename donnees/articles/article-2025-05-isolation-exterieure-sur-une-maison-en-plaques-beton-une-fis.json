@@ -1,0 +1,60 @@
+{
+ "slug": "article-2025-05-isolation-exterieure-sur-une-maison-en-plaques-beton-une-fis",
+ "mois": "2025-05",
+ "titre": "Isolation extérieure sur une maison en plaques béton : une fissure qui n'était pas un mouvement de terrain",
+ "resume": "Pendant la pose d'une isolation extérieure sur une maison préfabriquée des années 80, des plaques de façade se sont écartées. L'expertise a écarté un mouvement des fondations.",
+ "commune": "Marne",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "Au printemps, nous avons été appelés sur le chantier d'isolation thermique extérieure d'une maison préfabriquée des années 1980, construite en grandes plaques de béton. En cours de travaux, un écart était apparu entre deux plaques de façade, et l'on craignait un mouvement de terrain."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "li",
+   "texte": "Les volets battants devaient être repositionnés de l'épaisseur de l'isolant. Les anciennes butées avaient été retirées, et l'une avait été arrachée plus fortement que les autres."
+  },
+  {
+   "type": "li",
+   "texte": "Ces butées étaient fixées juste à la jonction de deux plaques : c'est à cet endroit que les plaques s'étaient légèrement écartées. Aucune plaque n'était fissurée."
+  },
+  {
+   "type": "li",
+   "texte": "Le défaut d'horizontalité d'une baie, qui inquiétait, datait de la construction : le procédé ne permettant pas de reprendre la maçonnerie, la menuiserie avait été posée en rattrapant le faux niveau."
+  },
+  {
+   "type": "li",
+   "texte": "Aucune fracture structurelle ni décalage des fondations, et aucun arrêté de catastrophe naturelle sécheresse sur la commune. L'eau dans la cave s'expliquait par les fortes pluies des jours précédents."
+  },
+  {
+   "type": "h2",
+   "texte": "Notre conclusion"
+  },
+  {
+   "type": "p",
+   "texte": "Il ne s'agissait pas d'un mouvement de terrain. Un couvre-joint posé sur l'ouverture avant l'isolant suffit, puis la fixation des plaques par vissage comme prévu. Une fois le chantier terminé et réceptionné, les garanties habituelles des travaux s'appliquent."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "p",
+   "texte": "Sur une maison en panneaux préfabriqués, les jonctions entre plaques sont des points sensibles : évitez d'y fixer volets, butées ou supports lourds. Et une fissure n'est pas forcément un problème de fondations : il faut regarder d'où vient l'effort avant de conclure."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2025-05-isolation-exterieure-sur-une-maison-en-plaques-beton-une-fis-1.jpg",
+   "legende": "Jonction de plaques béton écartée au droit d'une ancienne butée de volet"
+  },
+  {
+   "fichier": "images/articles/article-2025-05-isolation-exterieure-sur-une-maison-en-plaques-beton-une-fis-2.jpg",
+   "legende": "Percement de fixation près de la jonction entre deux plaques"
+  }
+ ],
+ "publie_le": "2026-11-05T18:15"
+}
