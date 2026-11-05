@@ -1,0 +1,68 @@
+{
+ "slug": "article-2026-01-renover-une-ancienne-ferme-ce-qu-il-faut-verifier-avant-de-s",
+ "mois": "2026-01",
+ "titre": "Rénover une ancienne ferme : ce qu'il faut vérifier avant de se lancer",
+ "resume": "Une ancienne bergerie à transformer en habitation : planchers déformés, jonction de toitures détruite, têtes de murs à reprendre, mais une charpente en très bon état. Le point avant travaux.",
+ "commune": "Aube",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "En janvier, de futurs rénovateurs nous ont demandé de faire le point sur une ancienne ferme, longtemps utilisée comme bergerie et peu entretenue depuis. Leur question principale portait sur la charpente et les combles, mais nous avons fait le tour de l'ensemble du bâti avant le début des travaux."
+  },
+  {
+   "type": "h2",
+   "texte": "Les bonnes nouvelles"
+  },
+  {
+   "type": "p",
+   "texte": "La charpente est en très bon état. On voit des traces d'écoulements d'eau sur certaines poutres, mais le bois n'est pas attaqué : il est capable de recevoir un nouveau complexe de couverture isolante. Les murs porteurs, en pierre jointée, sont dans un état correct pour leur âge, et nous n'avons pas relevé de besoin général d'agrafage."
+  },
+  {
+   "type": "h2",
+   "texte": "Les points à reprendre"
+  },
+  {
+   "type": "li",
+   "texte": "Un plancher ancien forme des ventres importants après une longue fuite d'eau : ces planchers en sandwich sont lourds et doivent être contrôlés avant d'être chargés."
+  },
+  {
+   "type": "li",
+   "texte": "La jonction entre les deux toitures, au niveau de la noue, est détruite : c'est le point le plus urgent pour arrêter les infiltrations."
+  },
+  {
+   "type": "li",
+   "texte": "Les têtes de murs sous la charpente et les ancrages de poutres sont à remaçonner, avec un traitement du bois."
+  },
+  {
+   "type": "li",
+   "texte": "Le bardage bois du pignon de la grange est à refaire rapidement pour protéger la charpente."
+  },
+  {
+   "type": "li",
+   "texte": "Côté nord, un drainage en pied de façade avec membrane est recommandé."
+  },
+  {
+   "type": "li",
+   "texte": "Une fissure au-dessus d'un linteau en pierre doit être vérifiée par un maçon, le linteau pouvant être à remplacer."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "p",
+   "texte": "Sur un bâtiment agricole ancien, on commence toujours par mettre hors d'eau : toiture, noues, têtes de murs. Les poutres traversantes, fréquentes dans ces bâtiments, imposent aussi de réfléchir tôt à l'implantation de l'escalier. Enfin, un diagnostic avant travaux ne remplace pas des contrôles au fur et à mesure du chantier : on découvre toujours des choses en ouvrant."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2026-01-renover-une-ancienne-ferme-ce-qu-il-faut-verifier-avant-de-s-1.jpg",
+   "legende": "Charpente et lattis anciens en bon état"
+  },
+  {
+   "fichier": "images/articles/article-2026-01-renover-une-ancienne-ferme-ce-qu-il-faut-verifier-avant-de-s-2.jpg",
+   "legende": "Tête de mur en briques à reprendre sous la toiture"
+  }
+ ],
+ "publie_le": "2026-11-05T18:23"
+}
