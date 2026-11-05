@@ -1,0 +1,80 @@
+{
+ "slug": "article-2024-07-terrasse-qui-se-remplit-d-eau-a-chaque-orage-remonter-le-res",
+ "mois": "2024-07",
+ "titre": "Terrasse qui se remplit d'eau à chaque orage : remonter le réseau d'eaux pluviales",
+ "resume": "Après chaque orage, une terrasse se transformait en bassin et l'isolation extérieure trempait dans l'eau. La cause était à chercher dans les gouttières et les canalisations, pas dans la terrasse.",
+ "commune": "Troyes",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "Cet été, la propriétaire d'une maison mitoyenne en copropriété nous a appelés : à chaque grosse pluie, l'eau montait sur sa terrasse, l'isolation thermique extérieure récemment posée baignait dans l'eau, et elle craignait une entrée d'eau par la porte-fenêtre."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "li",
+   "texte": "Un toit voisin se déversait directement sur la terrasse haute, sans gouttière."
+  },
+  {
+   "type": "li",
+   "texte": "Le regard en pied de descente recevait à la fois l'eau des deux maisons et celle d'une grande surface de toitures de garages, pour un tuyau de sortie trop petit."
+  },
+  {
+   "type": "li",
+   "texte": "Le caniveau de la terrasse basse était relié à des regards effondrés ou remplis de terre ; une inspection caméra a montré une canalisation complètement obstruée."
+  },
+  {
+   "type": "li",
+   "texte": "Pour contourner l'isolation extérieure, une descente avait été déviée avec deux coudes à 90° et une contre-pente, ce qui favorise bouchons et débordements."
+  },
+  {
+   "type": "h2",
+   "texte": "Un autre point de sécurité"
+  },
+  {
+   "type": "p",
+   "texte": "Lors de la pose de l'isolation extérieure, les ventouses des chaudières gaz avaient été laissées en place et l'isolant simplement découpé autour. La tête de ventouse se retrouvait noyée dans l'isolant, alors que sa double paroi a besoin de l'air extérieur pour bien évacuer les gaz brûlés. Ces terminaux doivent être rallongés."
+  },
+  {
+   "type": "h2",
+   "texte": "Nos recommandations"
+  },
+  {
+   "type": "li",
+   "texte": "Poser une gouttière sur le toit qui se déverse sur la terrasse."
+  },
+  {
+   "type": "li",
+   "texte": "Curer et réparer les regards et la canalisation obstruée, puis vérifier où l'eau est réellement évacuée."
+  },
+  {
+   "type": "li",
+   "texte": "Redimensionner l'évacuation qui reçoit les eaux des garages."
+  },
+  {
+   "type": "li",
+   "texte": "Refaire la descente déviée sans coudes à 90°."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "p",
+   "texte": "Quand une terrasse se remplit, l'eau vient presque toujours d'ailleurs. Il faut remonter tout le chemin de l'eau, du toit jusqu'à l'exutoire. Et après une isolation extérieure, vérifiez toujours les ventouses de chaudière."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2024-07-terrasse-qui-se-remplit-d-eau-a-chaque-orage-remonter-le-res-1.jpg",
+   "legende": "Regard en pied de descente : il reçoit aussi l'eau des toitures voisines"
+  },
+  {
+   "fichier": "images/articles/article-2024-07-terrasse-qui-se-remplit-d-eau-a-chaque-orage-remonter-le-res-2.jpg",
+   "legende": "Terrasse basse après une pluie : l'eau ne s'évacue pas"
+  }
+ ],
+ "publie_le": "2026-11-05T18:10"
+}
