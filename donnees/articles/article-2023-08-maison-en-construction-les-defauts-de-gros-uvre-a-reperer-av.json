@@ -1,0 +1,68 @@
+{
+ "slug": "article-2023-08-maison-en-construction-les-defauts-de-gros-uvre-a-reperer-av",
+ "mois": "2023-08",
+ "titre": "Maison en construction : les défauts de gros œuvre à repérer avant les finitions",
+ "resume": "Trous non rebouchés, joints ouverts entre parpaings, menuiseries sans appui : en construction neuve, ces détails doivent être repris avant que les finitions ne les cachent.",
+ "commune": "Aube",
+ "blocs": [
+  {
+   "type": "p",
+   "texte": "L'été dernier, un particulier nous a demandé de contrôler le gros œuvre de sa maison en construction. Le chantier avait commencé plus de deux ans auparavant ; la maison était hors d'eau et hors d'air, et la plâtrerie presque terminée."
+  },
+  {
+   "type": "h2",
+   "texte": "Ce que nous avons constaté"
+  },
+  {
+   "type": "li",
+   "texte": "De nombreux trous laissés dans les façades par les serre-joints, jamais rebouchés. Dans l'un d'eux, un nid de guêpes commençait à s'installer."
+  },
+  {
+   "type": "li",
+   "texte": "Dans le garage, des joints verticaux ouverts entre les parpaings : ils doivent être bouchés pour éviter les ponts thermiques et l'entrée de nuisibles."
+  },
+  {
+   "type": "li",
+   "texte": "Des tableaux de fenêtres irréguliers : la bande d'étanchéité compressible (compribande) n'était pas en appui contre la maçonnerie, et l'étanchéité à l'air et à l'eau n'était donc pas garantie."
+  },
+  {
+   "type": "li",
+   "texte": "Une porte de garage sectionnelle pas parallèle au sol, sans doute mal calée."
+  },
+  {
+   "type": "h2",
+   "texte": "Nos recommandations"
+  },
+  {
+   "type": "p",
+   "texte": "Ces reprises doivent être faites rapidement, et surtout avant la fin des finitions intérieures : une fois les doublages terminés, il devient très difficile de reprendre proprement les tableaux. Rappelons que la mousse polyuréthane n'est pas admise pour l'étanchéité extérieure des menuiseries."
+  },
+  {
+   "type": "p",
+   "texte": "Nous avons aussi rappelé qu'un trait de niveau est indispensable lorsqu'un plancher chauffant est prévu."
+  },
+  {
+   "type": "h2",
+   "texte": "À retenir"
+  },
+  {
+   "type": "p",
+   "texte": "En construction neuve, faites contrôler chaque étape avant qu'elle ne soit recouverte par la suivante. Un défaut visible aujourd'hui coûte beaucoup plus cher à reprendre une fois caché."
+  }
+ ],
+ "photos": [
+  {
+   "fichier": "images/articles/article-2023-08-maison-en-construction-les-defauts-de-gros-uvre-a-reperer-av-1.jpg",
+   "legende": "Trou de serre-joint non rebouché en façade"
+  },
+  {
+   "fichier": "images/articles/article-2023-08-maison-en-construction-les-defauts-de-gros-uvre-a-reperer-av-2.jpg",
+   "legende": "Joint vertical ouvert entre deux parpaings"
+  },
+  {
+   "fichier": "images/articles/article-2023-08-maison-en-construction-les-defauts-de-gros-uvre-a-reperer-av-3.jpg",
+   "legende": "Menuiserie : la bande d'étanchéité n'est pas en appui sur la maçonnerie"
+  }
+ ],
+ "publie_le": "2026-11-05T18:01"
+}
